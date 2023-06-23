@@ -1,0 +1,13 @@
+html{
+    background-color: whitesmoke;
+}
+h1{
+    color: brown;
+}
+hr{
+    color: blanchedalmond;
+}
+.image{
+  float: left;  
+  margin-left: 125px;
+}
